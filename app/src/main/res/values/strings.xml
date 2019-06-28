@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">姿态测量-无人机</string>
+    <string name="action_settings">设置</string>
+    <string name="open_device">打开设备</string>
+    <string name="disconnected">未连接</string>
+    <string name="product_information">设备信息</string>
+    <string name="connection_loose">状态：没有设备连接</string>
+    <string name="sdk_version">DJI SDK 版本: %1$s</string>
+    <string name="registered">注册成功</string>
+    <string name="registering">注册中，请稍等&#8230;</string>
+    <string name="register_failed">注册失败，请检查网络连接</string>
+
+</resources>
